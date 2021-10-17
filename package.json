@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/topalov92/goit-js-hw-10-food-service/issues"
   },
-  "homepage": "https://github.com/topalov92/goit-js-hw-10-food-service#readme"
+  "homepage": "https://github.com/topalov92/goit-js-hw-10-food-service#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
